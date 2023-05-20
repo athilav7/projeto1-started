@@ -1,0 +1,3 @@
+new = str(input('Vou mudar essa porra')
+while True:
+	print(new)
